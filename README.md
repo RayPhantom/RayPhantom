@@ -16,9 +16,9 @@
 | RUDN University | Secondary Professional Education | Information Systems and Programming | 4 years  | Finished |
 
 ### Courses
-| Name          | Status          | Link                                     |
-| ------------- |:---------------:|:----------------------------------------:|
-| HTML Acadumy  | In Progress     | https://htmlacademy.ru/profile/id1392379 |
+| Name          | Status          | Link                                      |
+| ------------- |:---------------:|:-----------------------------------------:|
+| HTML Acadumy  | In Progress     | https://htmlacademy.ru/profile/rayphantom |
 
 ### Contacts
 Telegram: @RayPhantomXD
