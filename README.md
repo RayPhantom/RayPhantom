@@ -14,6 +14,7 @@
 | University      | Level                            | Speciality                          | Duration | Status      |
 | --------------- |:--------------------------------:|:-----------------------------------:|:--------:|:-----------:|
 | RUDN University | Secondary Professional Education | Information Systems and Programming | 4 years  | Finished    |
+| --------------- |:--------------------------------:|:-----------------------------------:|:--------:|:-----------:|
 | RUDN University | Bachelor                         | Applied Informatics                 | 3rd year | In Progress |
 
 ### Courses
